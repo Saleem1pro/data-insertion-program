@@ -1,0 +1,4 @@
+pandas
+pyodbc
+openpyxl  # Pour lire les fichiers Excel
+pip
